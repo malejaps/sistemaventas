@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Sistema_ventasModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Auditoria">
+    <Key>
+      <PropertyRef Name="cod_auditoria" />
+    </Key>
+    <Property Name="cod_auditoria" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cod_usuario" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Auditoria_Usuario1" FromRole="Auditoria" ToRole="Usuario" />
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="Categoria_Producto">
+    <Key>
+      <PropertyRef Name="cod_cat_producto" />
+    </Key>
+    <Property Name="cod_cat_producto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_cat_producto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Producto" Relationship="Self.FK_Producto_Categoria_Producto1" FromRole="Categoria_Producto" ToRole="Producto" />
+  </EntityType>
+  <EntityType Name="Negocio">
+    <Key>
+      <PropertyRef Name="cod_negocio" />
+    </Key>
+    <Property Name="cod_negocio" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nit_negocio" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nombre_negocio" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ciudad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Pedido" Relationship="Self.FK_Pedido_Negocio" FromRole="Negocio" ToRole="Pedido" />
+  </EntityType>
+  <EntityType Name="Pedido">
+    <Key>
+      <PropertyRef Name="cod_pedido" />
+    </Key>
+    <Property Name="fecha" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="cod_pedido" Type="Int32" Nullable="false" />
+    <Property Name="cod_negocio" Type="Int32" Nullable="false" />
+    <Property Name="cod_usuario" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Negocio" Relationship="Self.FK_Pedido_Negocio" FromRole="Pedido" ToRole="Negocio" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Pedido_Usuario" FromRole="Pedido" ToRole="Usuario" />
+    <Property Name="total_pedido" Type="Int32" />
+    <NavigationProperty Name="PedidoProducto" Relationship="Sistema_ventasModel.FK_PedidoProducto_Pedido" FromRole="Pedido" ToRole="PedidoProducto" />
+    <Property Name="estado" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Perfil">
+    <Key>
+      <PropertyRef Name="cod_perfil" />
+    </Key>
+    <Property Name="cod_perfil" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Usuario_Perfil" FromRole="Perfil" ToRole="Usuario" />
+  </EntityType>
+  <EntityType Name="Producto">
+    <Key>
+      <PropertyRef Name="cod_producto" />
+    </Key>
+    <Property Name="cod_producto" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_producto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <Property Name="precio" Type="Int32" Nullable="false" />
+    <Property Name="descripcion_producto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ruta_foto" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cod_usuario" Type="Int32" Nullable="false" />
+    <Property Name="cod_cat_producto" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Categoria_Producto" Relationship="Self.FK_Producto_Categoria_Producto1" FromRole="Producto" ToRole="Categoria_Producto" />
+    <NavigationProperty Name="Usuario" Relationship="Self.FK_Producto_Usuario" FromRole="Producto" ToRole="Usuario" />
+    <NavigationProperty Name="PedidoProducto" Relationship="Sistema_ventasModel.FK_PedidoProducto_Producto" FromRole="Producto" ToRole="PedidoProducto" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="cod_usuario" />
+    </Key>
+    <Property Name="cod_usuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_usuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="contrasena_usuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="correo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="telefono" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ruta_foto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cod_perfil" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Auditoria" Relationship="Self.FK_Auditoria_Usuario1" FromRole="Usuario" ToRole="Auditoria" />
+    <NavigationProperty Name="Pedido" Relationship="Self.FK_Pedido_Usuario" FromRole="Usuario" ToRole="Pedido" />
+    <NavigationProperty Name="Perfil" Relationship="Self.FK_Usuario_Perfil" FromRole="Usuario" ToRole="Perfil" />
+    <NavigationProperty Name="Producto" Relationship="Self.FK_Producto_Usuario" FromRole="Usuario" ToRole="Producto" />
+  </EntityType>
+  <Association Name="FK_Auditoria_Usuario1">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Auditoria" Type="Self.Auditoria" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="cod_usuario" />
+      </Principal>
+      <Dependent Role="Auditoria">
+        <PropertyRef Name="cod_usuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Producto_Categoria_Producto1">
+    <End Role="Categoria_Producto" Type="Self.Categoria_Producto" Multiplicity="1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categoria_Producto">
+        <PropertyRef Name="cod_cat_producto" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="cod_cat_producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pedido_Negocio">
+    <End Role="Negocio" Type="Self.Negocio" Multiplicity="1" />
+    <End Role="Pedido" Type="Self.Pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Negocio">
+        <PropertyRef Name="cod_negocio" />
+      </Principal>
+      <Dependent Role="Pedido">
+        <PropertyRef Name="cod_negocio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Pedido_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Pedido" Type="Self.Pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="cod_usuario" />
+      </Principal>
+      <Dependent Role="Pedido">
+        <PropertyRef Name="cod_usuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Perfil">
+    <End Role="Perfil" Type="Self.Perfil" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Perfil">
+        <PropertyRef Name="cod_perfil" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="cod_perfil" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Producto_Usuario">
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="1" />
+    <End Role="Producto" Type="Self.Producto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuario">
+        <PropertyRef Name="cod_usuario" />
+      </Principal>
+      <Dependent Role="Producto">
+        <PropertyRef Name="cod_usuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Sistema_ventasEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Auditoria" EntityType="Self.Auditoria" />
+    <EntitySet Name="Categoria_Producto" EntityType="Self.Categoria_Producto" />
+    <EntitySet Name="Negocio" EntityType="Self.Negocio" />
+    <EntitySet Name="Pedido" EntityType="Self.Pedido" />
+    <EntitySet Name="Perfil" EntityType="Self.Perfil" />
+    <EntitySet Name="Producto" EntityType="Self.Producto" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" />
+    <AssociationSet Name="FK_Auditoria_Usuario1" Association="Self.FK_Auditoria_Usuario1">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Auditoria" EntitySet="Auditoria" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Producto_Categoria_Producto1" Association="Self.FK_Producto_Categoria_Producto1">
+      <End Role="Categoria_Producto" EntitySet="Categoria_Producto" />
+      <End Role="Producto" EntitySet="Producto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pedido_Negocio" Association="Self.FK_Pedido_Negocio">
+      <End Role="Negocio" EntitySet="Negocio" />
+      <End Role="Pedido" EntitySet="Pedido" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Pedido_Usuario" Association="Self.FK_Pedido_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Pedido" EntitySet="Pedido" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Perfil" Association="Self.FK_Usuario_Perfil">
+      <End Role="Perfil" EntitySet="Perfil" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Producto_Usuario" Association="Self.FK_Producto_Usuario">
+      <End Role="Usuario" EntitySet="Usuario" />
+      <End Role="Producto" EntitySet="Producto" />
+    </AssociationSet>
+    <EntitySet Name="PedidoProducto" EntityType="Sistema_ventasModel.PedidoProducto" />
+    <AssociationSet Name="FK_PedidoProducto_Pedido" Association="Sistema_ventasModel.FK_PedidoProducto_Pedido">
+      <End Role="Pedido" EntitySet="Pedido" />
+      <End Role="PedidoProducto" EntitySet="PedidoProducto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PedidoProducto_Producto" Association="Sistema_ventasModel.FK_PedidoProducto_Producto">
+      <End Role="Producto" EntitySet="Producto" />
+      <End Role="PedidoProducto" EntitySet="PedidoProducto" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="PedidoProducto">
+    <Key>
+      <PropertyRef Name="cod_producto" />
+      <PropertyRef Name="cod_pedido" />
+    </Key>
+    <Property Name="cod_producto" Type="Int32" Nullable="false" />
+    <Property Name="cod_pedido" Type="Int32" Nullable="false" />
+    <Property Name="cantidad" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Pedido" Relationship="Sistema_ventasModel.FK_PedidoProducto_Pedido" FromRole="PedidoProducto" ToRole="Pedido" />
+    <NavigationProperty Name="Producto" Relationship="Sistema_ventasModel.FK_PedidoProducto_Producto" FromRole="PedidoProducto" ToRole="Producto" />
+  </EntityType>
+  <Association Name="FK_PedidoProducto_Pedido">
+    <End Type="Sistema_ventasModel.Pedido" Role="Pedido" Multiplicity="1" />
+    <End Type="Sistema_ventasModel.PedidoProducto" Role="PedidoProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pedido">
+        <PropertyRef Name="cod_pedido" />
+      </Principal>
+      <Dependent Role="PedidoProducto">
+        <PropertyRef Name="cod_pedido" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PedidoProducto_Producto">
+    <End Type="Sistema_ventasModel.Producto" Role="Producto" Multiplicity="1" />
+    <End Type="Sistema_ventasModel.PedidoProducto" Role="PedidoProducto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producto">
+        <PropertyRef Name="cod_producto" />
+      </Principal>
+      <Dependent Role="PedidoProducto">
+        <PropertyRef Name="cod_producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

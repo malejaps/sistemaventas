@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A2111921-E1DE-4C35-8582-A726C1666474}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaVentasUI</RootNamespace>
+    <AssemblyName>SistemaVentasUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Helpers\ObservableObject.cs" />
+    <Compile Include="Helpers\RelayCommand.cs" />
+    <Compile Include="Service References\ServicioSincronizacion\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <None Include="Service References\ServicioSincronizacion\service.wsdl" />
+    <None Include="Service References\ServicioSincronizacion\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServicioSincronizacion\service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ImagenesDeInterfaz\borrarProducto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ImagenesDeInterfaz\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ImagenesDeInterfaz\agregarProducto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaVentasBL\SistemaVentasBL.csproj">
+      <Project>{afc7e0c8-39a6-4d67-881d-786728c2cc33}</Project>
+      <Name>SistemaVentasBL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SistemaVentasEntidades\SistemaVentasEntidades.csproj">
+      <Project>{0fd63354-5750-4599-9539-92620acf09be}</Project>
+      <Name>SistemaVentasEntidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ImagenesUsuario\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ImagenesProducto\1.jpg" />
+    <Resource Include="ImagenesProducto\10.jpg" />
+    <Resource Include="ImagenesProducto\11.jpg" />
+    <Resource Include="ImagenesProducto\12.jpg" />
+    <Resource Include="ImagenesProducto\13.jpg" />
+    <Resource Include="ImagenesProducto\14.jpg" />
+    <Resource Include="ImagenesProducto\15.jpg" />
+    <Resource Include="ImagenesProducto\16.jpg" />
+    <Resource Include="ImagenesProducto\17.jpg" />
+    <Resource Include="ImagenesProducto\18.jpg" />
+    <Resource Include="ImagenesProducto\19.jpg" />
+    <Resource Include="ImagenesProducto\2.jpg" />
+    <Resource Include="ImagenesProducto\20.jpg" />
+    <Resource Include="ImagenesProducto\3.jpg" />
+    <Resource Include="ImagenesProducto\4.jpg" />
+    <Resource Include="ImagenesProducto\5.jpg" />
+    <Resource Include="ImagenesProducto\6.jpg" />
+    <Resource Include="ImagenesProducto\7.jpg" />
+    <Resource Include="ImagenesProducto\8.jpg" />
+    <Resource Include="ImagenesProducto\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ImagenesUsuario\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="iconosParaInterfaz\aceptar.png" />
+    <Resource Include="iconosParaInterfaz\aceptar2.png" />
+    <Resource Include="iconosParaInterfaz\aceptar3.png" />
+    <Resource Include="ImagenesDeInterfaz\add.png" />
+    <Resource Include="iconosParaInterfaz\cancelar.png" />
+    <Resource Include="ImagenesDeInterfaz\cancelar2.png" />
+    <Resource Include="iconosParaInterfaz\crearPedido.png" />
+    <Resource Include="iconosParaInterfaz\registrarPedido.png" />
+    <Resource Include="iconosParaInterfaz\sincronizar.png" />
+    <Resource Include="iconosParaInterfaz\sincronizar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ServicioSincronizacion\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioSincronizacion\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioSincronizacion\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServicioSincronizacion\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

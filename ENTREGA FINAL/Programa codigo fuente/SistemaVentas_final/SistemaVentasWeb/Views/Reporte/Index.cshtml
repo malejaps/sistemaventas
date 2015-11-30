@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Reportes";
+}
+
+
+<div class="row">
+    <h2>Reportes</h2>
+    
+
+
+    <p class="lead"> Seleccione el reporte que desea generar:     </p>
+    <div class="col-md-4">
+
+        <ul class="nav navbar-nav">
+            <li>@Html.ActionLink("Ventas por producto", "VentasPorProducto", "Reporte")</li>
+            <li>@Html.ActionLink("Ventas por categoria de productos", "VentasPorCategoria", "Reporte")</li>
+            <li>@Html.ActionLink("Ventas por ciudad", "VentasPorCiudad", "Reporte")</li>
+          
+            
+        </ul>
+
+    </div>
+</div>
+
+

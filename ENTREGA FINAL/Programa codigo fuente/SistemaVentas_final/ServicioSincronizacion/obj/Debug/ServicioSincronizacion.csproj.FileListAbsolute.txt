@@ -1,0 +1,123 @@
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb

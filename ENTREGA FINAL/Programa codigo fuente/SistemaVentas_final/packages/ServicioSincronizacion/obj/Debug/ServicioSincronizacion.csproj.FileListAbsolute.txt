@@ -1,0 +1,12 @@
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\ServicioSincronizacion\obj\Debug\ServicioSincronizacion.pdb

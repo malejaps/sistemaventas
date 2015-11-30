@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Sistema de ventas</h1>
+    <p class="lead"> Bienvenido a la aplicacion web del sistema de ventas.     </p>
+    
+</div>
+
+<div class="row">
+@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated) {
+    var roles = Roles.GetRolesForUser();
+    if (roles.Contains("Jefe de Produccion") || roles.Contains("Administrador"))
+    {
+        <div class="col-md-4">
+            <h2>Jefe de producción</h2>
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Gestionar productos", "Index", "Producto")</li>
+                <li>@Html.ActionLink("Gestionar categoria", "Index", "Categoria")</li>           
+            </ul>
+         </div>
+    }
+   
+    if (roles.Contains("Administrador"))
+    {
+        <div class="col-md-4">
+            <h2>Administrador</h2>
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Crear o editar usuario", "Index", "Usuario")</li>
+                <ht></ht>           
+                <li>@Html.ActionLink("Crear o editar perfil", "Index", "Perfil")</li>
+            </ul>  
+        </div>
+    }
+
+    if (roles.Contains("Area de Ventas") || roles.Contains("Administrador"))
+    {
+        <div class="col-md-4">
+            <h2>Area de Ventas</h2>
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Vendedores no sincronizados", "VendedoresSinSincronizacion", "Usuario")</li>
+                <li>@Html.ActionLink("Reportes de Ventas", "Index", "Reporte")</li>
+                <li>@Html.ActionLink("Configurar precios de productos", "Vista_AreaDeVentas", "Producto")</li>
+            </ul>
+        </div>
+    }
+}          
+
+</div>

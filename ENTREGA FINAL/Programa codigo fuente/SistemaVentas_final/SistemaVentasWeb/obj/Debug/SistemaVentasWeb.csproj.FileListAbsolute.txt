@@ -1,0 +1,326 @@
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll.config
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Owin.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\WebGrease.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.g.resources
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\itextsharp.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasWeb\bin\RazorPDF.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll.config
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\itextsharp.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Owin.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\RazorPDF.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\WebGrease.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.g.resources
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\itextsharp.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Owin.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\RazorPDF.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\WebGrease.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.g.resources
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.pdb
+C:\Users\Maleja\Desktop\EDWIN\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\EDWIN\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.g.resources
+C:\Users\Maleja\Desktop\EDWIN\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.dll
+C:\Users\Maleja\Desktop\EDWIN\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.pdb
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll.config
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.pdb
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\itextsharp.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Owin.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\RazorPDF.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\WebGrease.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.g.resources
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.dll
+C:\Users\Edwin Gamboa\Documents\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll.config
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasWeb.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\itextsharp.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Owin.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\RazorPDF.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\WebGrease.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Helpers.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Mvc.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Optimization.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.Razor.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\bin\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.g.resources
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\obj\Debug\RdlCompile.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\obj\Debug\RdlCompile.compiled
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasWeb\obj\Debug\SistemaVentasWeb.pdb

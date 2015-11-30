@@ -1,0 +1,614 @@
+﻿<Window x:Class="SistemaVentasUI.MainWindow"
+        WindowState="Maximized"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       
+        Title="Sistema Ventas" Height="669.789" Width="Auto">
+    <Grid Margin="0,0,0,3" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="340"/>
+            <ColumnDefinition  Width="*"  />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" MinHeight="206"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="41"/>
+        </Grid.RowDefinitions>
+        <!--area del menu-->
+        <Grid>
+            <ToolBar  HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="0">
+                <StackPanel Orientation="Horizontal">
+                    <Button ToolTip="Realizar un pedido o revisar una lista de pedidos"  x:Name="bt_gestionarPedido" Height="30" Width="32" VerticalAlignment="Top" Click="bt_gestionarPedido_Click">
+                        <Image Source="iconosParaInterfaz/crearPedido.png" Height="25" Width="30" RenderTransformOrigin="0.469,0.05">
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-3.031"/>
+                                    <TranslateTransform X="-0.948" Y="0.083"/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </Button>
+                    <Button ToolTip="Sincronizar" x:Name="bt_sincronizar"   Height="30" Width="32" VerticalAlignment="Top" Click="bt_sincronizar_Click" >
+                        <Image Source="iconosParaInterfaz/sincronizar.png" Height="25" Width="30" RenderTransformOrigin="0.469,0.05">
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-3.031"/>
+                                    <TranslateTransform X="-0.948" Y="0.083"/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </Button>
+                </StackPanel>
+            </ToolBar>
+        </Grid>
+        <!--area de informacion del vendedor-->
+        <Grid ToolTip="Informacion del vendedor que desea consultar o realizar un pedido"  Grid.Column="1" HorizontalAlignment="Right" Width="207">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="33*"/>
+                <RowDefinition Height="17*"/>
+            </Grid.RowDefinitions>
+            <Image x:Name="im_FotoVendedor" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="45" RenderTransformOrigin="-0.145,0.423" Margin="5,10,0,0"/>
+            <TextBlock x:Name="tb_NombreVendedor"   HorizontalAlignment="Left"  VerticalAlignment="Top" Height="31" Width="147" Margin="50,10,0,0" />
+        </Grid>
+        <!-- area de busquedaNegocio -->
+        <GroupBox x:Name="gr_Negocio" Header="Negocio" Visibility="Hidden" Grid.ColumnSpan="2"  BorderThickness="1,1,1,1" BorderBrush="Black" Background="White" FontWeight="Bold" Margin="0,50,0,34" >
+            <StackPanel Orientation="Vertical"  >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="4" />
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+
+                    </Grid.RowDefinitions>
+                    <TextBox ToolTip="Ingrese el nombre del negocio"  x:Name="tb_IngresarNombreNegocio" HorizontalAlignment="Left" Height="26"  VerticalAlignment="Top" MinWidth="372" Margin="1,0,0,0" BorderBrush="Black" KeyUp="tb_IngresarNombreNegocio_KeyUp" />
+                    <Button ToolTip="Buscar al negocio con el nombre ingresado"  x:Name="bt_BuscarNegocio"  HorizontalAlignment="Left"  Grid.Column="2" VerticalAlignment="Bottom" Width="36" Height="26" RenderTransformOrigin="0.853,-1"  Click="bt_BuscarNegocio_Click" >
+                        <Image Source="ImagenesDeInterfaz\lupa.png" Height="25" Width="30" RenderTransformOrigin="0.469,0.05">
+                        </Image>
+                    </Button>
+                </Grid>
+                <Label MaxHeight="3"/>
+                <ListView x:Name="lv_listadoNegocios"  Height="100" HorizontalAlignment="Left" Width="600" SelectionChanged="seleccionNegocio_Click" >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Border x:Name="border" BorderBrush="#FF000000" BorderThickness="1" CornerRadius="4" Margin="5,0,0,0" Background="#00000000">
+                                <Border.RenderTransform>
+                                    <ScaleTransform ScaleX="1.0" ScaleY="1.0"/>
+                                </Border.RenderTransform>
+                                <Border.Triggers>
+                                    <EventTrigger RoutedEvent="UIElement.MouseEnter" >
+                                        <BeginStoryboard>
+                                            <Storyboard Storyboard.TargetProperty="(Border.Background).(SolidColorBrush.Color)" >
+                                                <ColorAnimation  To="#6990EE90" Duration="0:0:0.3" Storyboard.TargetName="border"  />
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                    <EventTrigger RoutedEvent="UIElement.MouseLeave" >
+                                        <BeginStoryboard>
+                                            <Storyboard Storyboard.TargetProperty="(Border.Background).(SolidColorBrush.Color)">
+                                                <ColorAnimation  To="Transparent" Duration="0:0:0.3" Storyboard.TargetName="border"  />
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                </Border.Triggers>
+                                <Grid HorizontalAlignment="Left" Height="58" >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="100"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+                                    <TextBlock  Text="Nombre del negocio: " Grid.Row="0" MaxHeight="20"  MinHeight="25" FontWeight="Bold" FontSize="12" FontStyle="Italic" Margin="10,0,30,0"   />
+                                    <TextBlock Text="Ciudad: " Grid.Column="2" Grid.Row="1" MaxHeight="20" MinHeight="25" FontWeight="Bold" FontSize="12" FontStyle="Italic" />
+                                    <TextBlock Text="Nit: " Grid.Column="2"  MaxHeight="20"  MinHeight="25" FontWeight="Bold" FontSize="12" FontStyle="Italic"   />
+                                    <TextBlock  Text="Direccion: " Grid.Row="1" MaxHeight="20"  MinHeight="25" FontWeight="Bold" FontSize="12" FontStyle="Italic" Grid.ColumnSpan="3" Margin="10,0,0,0"    />
+                                    <!--bloques para traer el nombre y direccion-->
+                                    <TextBlock x:Name="tb_NombreNeg" Text="{Binding NombreNegocio}" Grid.Column="1" Grid.Row="0" MaxHeight="20"  MinHeight="25"  FontSize="12" />
+                                    <TextBlock x:Name="tb_DireccionNeg" Text="{Binding Direccion}" Grid.Column="1" Grid.Row="1" MaxHeight="20" MinHeight="25"  FontSize="12"  />
+                                    <!--bloques para traer el nit y la ciudad-->
+                                    <TextBlock x:Name="tb_NitNeg" Text="{Binding NitNegocio}" Grid.Column="3" Grid.Row="0" MaxHeight="20"  MinHeight="25"  FontSize="12"  />
+                                    <TextBlock x:Name="tb_CiudadNeg" Text="{Binding Ciudad}" Grid.Column="3" Grid.Row="1" MaxHeight="20" MinHeight="25"  FontSize="12" />
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                    <ListView.ItemContainerStyle>
+                        <Style>
+                            <Setter Property="FrameworkElement.Margin" Value="5"/>
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                </ListView>
+
+                <ToolBar x:Name="btns_gestionarPedido" Visibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top" Height="42"   >
+                    <StackPanel Orientation="Horizontal">
+                        <Button ToolTip="Realizar un pedido" IsEnabled="False"  x:Name="bt_crearPedido" Height="30" Width="36" VerticalAlignment="Top" Click="bt_crearPedido_Click">
+                            <Image Source="iconosParaInterfaz/crearPedido.png" Height="25" Width="30" />
+                        </Button>
+                        <Button ToolTip="Lista pedidos del negocio" IsEnabled="true"  x:Name="bt_listarPedido"   Height="30" Width="32" VerticalAlignment="Top" Click="bt_listarPedido_Click">
+                            <Image Source="iconosParaInterfaz/registrarPedido.png" Height="25" Width="30" RenderTransformOrigin="0.469,0.05"/>
+                        </Button>
+                    </StackPanel>
+                </ToolBar>
+            </StackPanel>
+        </GroupBox>
+
+        <!-- area de busquedaProductos -->
+        <GroupBox x:Name="gr_productos"  Visibility="Hidden" Header="Productos"  BorderThickness="1,1,1,1" BorderBrush="Black" Background="White" FontWeight="Bold" Margin="0,249,0,0" Grid.RowSpan="3" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" MinHeight="37" />
+                    <RowDefinition Height="169*"/>
+                    <RowDefinition Height="Auto"  />
+                </Grid.RowDefinitions>
+                <TextBox  ToolTip="Ingrese el nombre del producto"  x:Name="tb_IngresarNombreProducto" Margin="10,6,147,0"  TextWrapping="Wrap"  Height="29" VerticalAlignment="Top" KeyUp="tb_IngresarNombreProducto_KeyUp"/>
+                <ComboBox  ToolTip="Seleccione la categoria del producto"  x:Name="cb_CategoriasProductos" SelectedItem="Categoria del producto" HorizontalAlignment="Left" Margin="10,5,0,0" Grid.Row="1" VerticalAlignment="Top" Width="171" Height="27" SelectionChanged="seleccionarCantidad_Click" />
+                <ListView x:Name="lv_listadoProductos"  BorderThickness="0" Grid.Row="2" MinHeight="100" MinWidth="280" Margin="10,5,10,0" SelectionChanged="seleccionProducto_Click"  >
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border x:Name="border" BorderBrush="#FF000000" BorderThickness="1" CornerRadius="4" Margin="5,0,0,0">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>
+                                    <Label></Label>
+                                    <Image HorizontalAlignment="Center" Width="40" Height="30" Grid.RowSpan="3" Grid.Row="1" VerticalAlignment="Center" Source="{Binding Path=RutaFoto}"></Image>
+                                    <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1">
+
+                                        <Button FontWeight="Bold"  FontSize="16"  Content="{Binding NombreProducto}" ></Button>
+                                    </StackPanel>
+                                    <StackPanel  Grid.Row="2" Grid.Column="1">
+                                        <Label></Label>
+                                        <TextBox FontSize="12" FontWeight="Bold" Text="{Binding DescripcionProducto}" 
+                                               TextWrapping="Wrap" MaxWidth="200"  Height="40" 
+                                              ScrollViewer.VerticalScrollBarVisibility="Auto"
+                                             IsReadOnly="True"
+                                               ></TextBox>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1"  >
+                                        <Label  FontSize="14" FontWeight="Bold" Content="$" ></Label>
+                                        <Label  FontSize="14" FontWeight="Bold" Content="{Binding Precio}" ></Label>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Grid.Row="4" Grid.ColumnSpan="2" HorizontalAlignment="Right" >
+                                        <Label  FontSize="14" FontWeight="Bold" Content="Cantidad disponible: " ></Label>
+                                        <TextBox IsReadOnly="True" Height="22" FontSize="14" FontWeight="Bold" Text="{Binding Cantidad}" ></TextBox>
+                                        <!--<ComboBox x:Name="cb_seleCantidadProducto"  VerticalAlignment="Center" SelectedItem="Cantidad" HorizontalAlignment="Center" ItemsSource="{Binding cantidadProductoItems}" />-->
+
+                                    </StackPanel>
+                                    <Label Grid.Column="3" />
+                                    <Label Grid.Row="5" />
+                                </Grid>
+                                <Border.RenderTransform>
+                                    <ScaleTransform ScaleX="1.0" ScaleY="1.0"></ScaleTransform>
+                                </Border.RenderTransform>
+                                <Border.Background>
+                                    <SolidColorBrush />
+                                </Border.Background>
+                                <Border.Triggers>
+                                    <EventTrigger RoutedEvent="Border.MouseEnter" >
+                                        <BeginStoryboard>
+                                            <Storyboard TargetProperty="(Border.Background).(SolidColorBrush.Color)" >
+                                                <ColorAnimation  To="#6990EE90" Duration="0:0:0.3" Storyboard.TargetName="border"  />
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                    <EventTrigger RoutedEvent="Border.MouseLeave" >
+                                        <BeginStoryboard>
+                                            <Storyboard TargetProperty="(Border.Background).(SolidColorBrush.Color)">
+                                                <ColorAnimation  To="Transparent" Duration="0:0:0.3" Storyboard.TargetName="border"  />
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                </Border.Triggers>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                    <ItemsControl.ItemContainerStyle>
+                        <Style>
+                            <Setter Property="FrameworkElement.Margin" Value="5"/>
+                        </Style>
+                    </ItemsControl.ItemContainerStyle>
+                </ListView>
+                <StackPanel x:Name="sp_selecionCantidadProducto" Visibility="Hidden" Orientation="Horizontal"  Grid.Row="3" HorizontalAlignment="Right" >
+                    <Label Content="Cantidad: " Margin="0,10"/>
+                    <ComboBox x:Name="cb_seleCantidadProducto"  VerticalAlignment="Bottom" SelectedItem="Cantidad" HorizontalAlignment="Right" Height="29" Margin="0,0,0,10"  />
+                    <Label Width="5"/>
+                    <Button x:Name="bt_agregarProducto"  ToolTip="Para agregar un producto, seleccione primero al producto y luego de clic en el boton de agregar" Width="37" Margin="0,11,5,10" HorizontalAlignment="Right" Click="bt_agregarProducto_Click">
+                        <Image Source="/SistemaVentasUI;component/ImagenesDeInterfaz/add.png" Height="25" Width="27"/>
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+        </GroupBox>
+
+        <!-- area de crear pedidos -->
+        <GroupBox x:Name="gr_CrearPedido"  Visibility="Hidden" Header="Crear Pedido" Grid.Column="1"   BorderThickness="1,1,1,1" BorderBrush="Black" Background="White" FontWeight="Bold" Margin="0,249,0,0" Grid.RowSpan="3" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition Width="70*" />
+                    <ColumnDefinition Width="116*"/>
+                    <ColumnDefinition Width="25*"/>
+                    <ColumnDefinition Width="197*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <StackPanel x:Name="bt_eliminarProducto" Visibility="Hidden" Orientation="Horizontal" HorizontalAlignment="Right" Grid.Column="3" Width="30" Margin="0,0,10,0" >
+                    <Button ToolTip="Para eliminar a un producto, primero selecciona al producto y luego de clic en el boton de eliminar" Width="29" Margin="0,5,5,0" Click="borrarProducto_Click">
+                        <ContentControl>
+                            <Image Source="/ImagenesDeInterfaz/cancelar2.png" Stretch="Fill"/>
+                        </ContentControl>
+                    </Button>
+                </StackPanel>
+                <ListView x:Name="lv_listadoPedido" Grid.Row="1" BorderThickness="0" MinHeight="100" MinWidth="280" Grid.ColumnSpan="4" SelectionChanged="seleccionProductosEnPedido" Margin="0,0,0,39"   >
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border x:Name="border" BorderBrush="#FF000000" BorderThickness="1" CornerRadius="4" Margin="5,0,0,0">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>
+
+                                    <Label></Label>
+                                    <Image HorizontalAlignment="Center" Width="40" Height="30" Grid.RowSpan="3" Grid.Row="1" VerticalAlignment="Center" Source="{Binding Path=RutaFoto}"></Image>
+                                    <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1">
+                                        <!--="{StaticResource LinkButtonStyle}" por ahora se quita-->
+                                        <Button Command="{Binding AgregarCommand}" FontWeight="Bold"  FontSize="16"  Content="{Binding Path=NombreProducto}" ></Button>
+                                    </StackPanel>
+                                    <StackPanel  Grid.Row="2" Grid.Column="1" >
+                                        <Label></Label>
+                                        <TextBox FontSize="12" FontWeight="Bold" Text="{Binding DescripcionProducto}" 
+                                               TextWrapping="Wrap" MaxWidth="200"  Height="40" 
+                                               ScrollViewer.VerticalScrollBarVisibility="Auto"
+                                               IsReadOnly="True"
+                                               ></TextBox>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1"  >
+                                        <Label  FontSize="14" FontWeight="Bold" Content="$" ></Label>
+                                        <Label  FontSize="14" FontWeight="Bold" Content="{Binding Precio}" ></Label>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Grid.Row="4" Grid.ColumnSpan="2" HorizontalAlignment="Right" >
+                                        <Label  FontSize="14" FontWeight="Bold" Content="Cantidad seleccionada: " ></Label>
+                                        <TextBox IsReadOnly="True" Height="22" FontSize="14" FontWeight="Bold" Text="{Binding Cantidad}" ></TextBox>
+                                    </StackPanel>
+                                    <Label Grid.Column="3" />
+                                    <Label Grid.Row="5" />
+                                </Grid>
+                                <Border.RenderTransform>
+                                    <ScaleTransform ScaleX="1.0" ScaleY="1.0"></ScaleTransform>
+                                </Border.RenderTransform>
+                                <Border.Background>
+                                    <SolidColorBrush />
+                                </Border.Background>
+                                <Border.Triggers>
+                                    <EventTrigger RoutedEvent="Border.MouseEnter" >
+                                        <BeginStoryboard>
+                                            <Storyboard TargetProperty="(Border.Background).(SolidColorBrush.Color)" >
+                                                <ColorAnimation  To="#6990EE90" Duration="0:0:0.10" Storyboard.TargetName="border"  />
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                    <EventTrigger RoutedEvent="Border.MouseLeave" >
+                                        <BeginStoryboard>
+                                            <Storyboard TargetProperty="(Border.Background).(SolidColorBrush.Color)">
+                                                <ColorAnimation  To="Transparent" Duration="0:0:0.20" Storyboard.TargetName="border"  />
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                </Border.Triggers>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                    <ItemsControl.ItemContainerStyle>
+                        <Style>
+                            <Setter Property="FrameworkElement.Margin" Value="5"/>
+                        </Style>
+                    </ItemsControl.ItemContainerStyle>
+                </ListView>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="2" Grid.Column="3" Height="30" VerticalAlignment="Top" >
+                    <Label Content="Total: " Margin="0,-2,0,2"></Label>
+                    <TextBox x:Name="tb_totalPedido" Width="100" Text="0" IsReadOnly="True" HorizontalAlignment="Center"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal"  HorizontalAlignment="Right" Grid.Row="3" Grid.Column="3">
+                    <Button   x:Name="bt_aceptarPedido" Click="registrarPedido_Click" IsEnabled="False">
+                        <Image Source="iconosParaInterfaz/aceptar.png" Height="25" Width="30" RenderTransformOrigin="0.469,0.05">
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-3.031"/>
+                                    <TranslateTransform X="-0.948" Y="0.083"/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+
+                    </Button>
+                    <Label></Label>
+                    <Button Click="cancelarPedido" x:Name="tb_cancelarPedido" IsEnabled="False" >
+
+                        <Image Source="iconosParaInterfaz/cancelar.png" Height="25" Width="30" RenderTransformOrigin="0.469,0.05">
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-3.031"/>
+                                    <TranslateTransform X="-0.948" Y="0.083"/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+
+
+                    </Button>
+                </StackPanel>
+
+            </Grid>
+        </GroupBox>
+
+        <!-- area de listar pedidos -->
+        <GroupBox x:Name="gr_ListarPedidos"  Visibility="Hidden" Header="Listar Pedidos" Grid.Row="2" Grid.ColumnSpan="2"   BorderThickness="1,1,1,1" BorderBrush="Black" Background="White" FontWeight="Bold" >
+            <Grid Margin="0,-14,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="30" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="800" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label  FontSize="12"  Content="" ></Label>
+                <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center">
+                    <Label  FontSize="12"  Content="Fecha" ></Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left">
+                    <Label  FontSize="12"  Content="Valor Total" Width="106"/>
+                </StackPanel>
+
+                <!-- Cuadro con un item del listado de pedidos!-->
+                <ListView x:Name="lv_ListadoPedidos" SelectionChanged="lv_ListadoPedidos_SelectionChanged"  Grid.ColumnSpan="2" Grid.Row="2" MinHeight="20"  ScrollViewer.VerticalScrollBarVisibility="Visible" FontWeight="Normal">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="800" />
+                                    <ColumnDefinition Width="*" />
+
+                                </Grid.ColumnDefinitions>
+
+
+                                <StackPanel Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Center">
+                                    <TextBlock  Text="{Binding Fecha}"   HorizontalAlignment="Left"  VerticalAlignment="Top" />
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Grid.Column="1" >
+                                    <TextBlock Text="$"   HorizontalAlignment="Center"  VerticalAlignment="Top" />
+                                    <TextBlock Text="{Binding TotalPedido}"   HorizontalAlignment="Center"  VerticalAlignment="Top" />
+                                </StackPanel>
+
+
+                            </Grid>
+
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                    <ItemsControl.ItemContainerStyle>
+                        <Style>
+                            <Setter Property="FrameworkElement.Margin" Value="5"/>
+                        </Style>
+                    </ItemsControl.ItemContainerStyle>
+                </ListView>
+
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="3" Grid.ColumnSpan="2"  Width="210">
+                    <Label Content="Total Pedidos: " Width="89"/>
+                    <TextBlock x:Name="tb_TotalPedidos" VerticalAlignment="Center"  FontWeight="Normal" />
+                    <Label Content="       " />
+                    <Button  Visibility="Hidden" x:Name="bt_abrirDetalle" Content="Ver detalle"  Margin="0,0,10,2" HorizontalAlignment="Left" Width="78" Height="23" VerticalAlignment="Bottom" Click="bt_abrirDetalle_Click"/>
+
+                </StackPanel>
+
+            </Grid>
+        </GroupBox>
+
+        <!--Area de detalle pedido-->
+        <GroupBox x:Name="gr_DetallePedido"  Visibility="Hidden" Header="Detalle de Pedido" Grid.Row="2" Grid.ColumnSpan="2"   BorderThickness="1,1,1,1" BorderBrush="Black" Background="White" FontWeight="Bold" >
+
+            <Grid Margin="0,0,0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="700" />
+                    <ColumnDefinition Width="*" />
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+
+                </Grid.RowDefinitions>
+
+                <Label  FontSize="12"  Content="" ></Label>
+                <StackPanel Orientation="Horizontal" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center">
+                    <Label  FontSize="12" FontWeight="Bold" Content="Cantidad" ></Label>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left">
+                    <Label  FontSize="12"  Content="                             Producto" />
+                </StackPanel>
+
+                <ListView x:Name="lv_CantidadProductoPedido"  Grid.Row="1"  Grid.Column="0" BorderThickness="0"  FontWeight="Normal">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="675" />
+                                    <ColumnDefinition Width="*" />
+
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Orientation="Horizontal"  Grid.Column="0" HorizontalAlignment="Center"  >
+                                    <TextBlock Text="{Binding Cantidad}" FontSize="12" VerticalAlignment="Center" ></TextBlock>
+                                    <Label  FontSize="12"  Content=" Unidades"  ></Label>
+                                </StackPanel>
+
+                            </Grid>
+
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                    <ItemsControl.ItemContainerStyle>
+                        <Style>
+                            <Setter Property="FrameworkElement.Margin" Value="5"/>
+                        </Style>
+                    </ItemsControl.ItemContainerStyle>
+                </ListView>
+
+                <ListView x:Name="lv_ListadoProductosDePedido" HorizontalAlignment="Left" BorderThickness="0"  Grid.Row="1" Grid.Column="1"  >
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border x:Name="border" BorderBrush="#FF000000" BorderThickness="0" CornerRadius="4"  Margin="5,0,0,0">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*" />
+                                        <RowDefinition Height="*" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="100" />
+                                        <ColumnDefinition Width="100" />
+                                        <ColumnDefinition Width="100" />
+
+                                    </Grid.ColumnDefinitions>
+                                    <Label></Label>
+                                    <Image HorizontalAlignment="Left" Width="40" Height="30"  Grid.Row="0"  Grid.Column="0" VerticalAlignment="Center" Source="{Binding RutaFoto}"></Image>
+                                    <StackPanel Orientation="Vertical" Grid.Row="0" Grid.Column="1" >
+                                        <Label  FontSize="12" FontWeight="Normal" Content="{Binding NombreProducto}"  ></Label>
+                                        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="1">
+                                            <TextBlock Text=" $"   HorizontalAlignment="Center"  VerticalAlignment="Top" FontWeight="Normal"/>
+                                            <TextBlock Text="{Binding Precio}"   HorizontalAlignment="Center"  VerticalAlignment="Top" FontWeight="Normal"/>
+                                        </StackPanel>
+                                    </StackPanel>
+
+                                    <StackPanel  Grid.Row="0" Grid.Column="2">
+                                        <Label></Label>
+                                        <TextBox FontSize="11" FontWeight="Normal" Text="{Binding DescripcionProducto}" 
+                                               TextWrapping="Wrap"  
+                                              ScrollViewer.VerticalScrollBarVisibility="Visible"
+                                              IsReadOnly="True"
+                                              VerticalAlignment="Top" ></TextBox>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="4"  >
+
+
+                                    </StackPanel>
+
+
+                                </Grid>
+                                <Border.RenderTransform>
+                                    <ScaleTransform ScaleX="1.0" ScaleY="1.0"></ScaleTransform>
+                                </Border.RenderTransform>
+                                <Border.Background>
+                                    <SolidColorBrush />
+                                </Border.Background>
+                                <Border.Triggers>
+                                    <EventTrigger RoutedEvent="Border.MouseEnter" >
+                                        <BeginStoryboard>
+                                            <Storyboard TargetProperty="(Border.Background).(SolidColorBrush.Color)" >
+                                                <ColorAnimation  To="#6990EE90" Duration="0:0:0.3" Storyboard.TargetName="border"  />
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                    <EventTrigger RoutedEvent="Border.MouseLeave" >
+                                        <BeginStoryboard>
+                                            <Storyboard TargetProperty="(Border.Background).(SolidColorBrush.Color)">
+                                                <ColorAnimation  To="Transparent" Duration="0:0:0.3" Storyboard.TargetName="border"  />
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger>
+                                </Border.Triggers>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                    <ItemsControl.ItemContainerStyle>
+                        <Style>
+                            <Setter Property="FrameworkElement.Margin" Value="5"/>
+                        </Style>
+                    </ItemsControl.ItemContainerStyle>
+                </ListView>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.ColumnSpan="3" HorizontalAlignment="Right">
+                    <Label  FontSize="12" FontWeight="Bold" Content="Valor Total del Pedido: " ></Label>
+                    <TextBlock Text="$"   HorizontalAlignment="Center"  VerticalAlignment="Center" FontWeight="Normal" />
+                    <TextBlock x:Name="tb_TotalPedidoDetalle"   HorizontalAlignment="Center"  FontWeight="Normal"  VerticalAlignment="Center" />
+                    <Label  FontSize="12" FontWeight="Bold" Content="    " ></Label>
+                    <Button  ToolTip="Volver a la lista de pedidos"  x:Name="bt_volver" Content="Volver"  HorizontalAlignment="Right" Width="103" Height="23" VerticalAlignment="Bottom" RenderTransformOrigin="0.507,0.043" Margin="0,0,10,0" Click="bt_volver_Click"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Grid.Column="2">
+
+                </StackPanel>
+
+            </Grid>
+
+        </GroupBox>
+
+
+        <StackPanel VerticalAlignment="Bottom"  Grid.Row="3" Grid.Column="1"  HorizontalAlignment="Right" Orientation="Horizontal" Height="26" Width="224"  >
+            <Label  Content="Sistema de Ventas 2015 @ UnivalleSoft" Width="222"/>
+        </StackPanel>
+        <!--MALEJA SOLAMENTE EL CONTENT ANTERIOR-->
+
+
+    </Grid>
+
+
+
+</Window>

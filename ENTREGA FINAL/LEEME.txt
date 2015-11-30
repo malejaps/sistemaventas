@@ -1,0 +1,12 @@
+
+*******************************************Lo que se arreglo del desconectado:******************************************************************************************
+-deshabilitar boton "VER DETALLE" cuando no este seleccionada la fila
+-siempre debe salir maximizado el desconectado
+-no sale el producto para pedido si su cantidad es igual a 0 
+-solo un pedido al dia un negocio
+-msj de cuando no hay nada de pedidos de un negocio
+-ya se controla el error de no conexiòn con la base de datos.
+-La caja de texto de búsqueda del negocio ya no es limitada , busca nombres parciales; 
+-ya no sale el error al seleccionar el detalle del pedido sino se ha seleccionado en el listado algún pedido saca un mensaje de que debe seleccionar el producto, se mejoro esta parte
+dejando solo un boton para abrir detalle el cual se activa cuando se selecciona un pedido de la lista.
+-ya no se pueden generar más de un pedido por tienda por día

@@ -1,0 +1,51 @@
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasEntidades\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasEntidades\obj\Debug\SistemaVentasEntidades.pdb

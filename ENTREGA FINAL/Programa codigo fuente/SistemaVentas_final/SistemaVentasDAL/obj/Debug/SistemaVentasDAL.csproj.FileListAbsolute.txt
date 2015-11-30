@@ -1,0 +1,119 @@
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+c:\users\david\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+D:\4to semestre ingeniere\actualizacion de competencias laborales .net\final del proyecto ventas\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Downloads\copias de seguridad .net\copias de seguridad .net\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 2\Entrega 2 Edwin\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado sin loguin\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll.config
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasDAL\obj\Debug\SistemaVentasDAL.pdb

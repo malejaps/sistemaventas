@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Editar Precio desde archivo";
+}
+
+<h2>Editar Precio desde archivo</h2>
+
+<script type="text/javascript">
+
+    function selectedFile() {
+        var archivoSeleccionado = document.getElementById("rutaArchivo");
+        var file = archivoSeleccionado.files[0];
+        if (file) {
+            var fileSize = 0;
+            if (file.size > 1048576)
+                fileSize = (Math.round(file.size * 100 / 1048576) / 100).toString() + ' MB';
+            else
+                fileSize = (Math.round(file.size * 100 / 1024) / 100).toString() + ' Kb';
+
+            var divfileSize = document.getElementById('fileSize');
+            var divfileType = document.getElementById('fileType');
+            divfileSize.innerHTML = 'Tamaño: ' + fileSize;
+            divfileType.innerHTML = 'Tipo: ' + file.type;
+
+        }
+    }
+
+</script>
+
+
+
+@using (Html.BeginForm("EditarPrecioProductoArchivo", "Producto", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+   
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+   
+<div class="form-group">
+    <label class="control-label col-md-2">Cargar Archivo</label>
+    <div class="col-md-10">
+        <input type="file" id="rutaArchivo" name="rutaArchivo" onchange="selectedFile();" />
+        <ul class="form-group">
+            <li>
+                <div id="fileSize"></div>
+            </li>
+            <li>
+                <div id="fileType"></div>
+            </li>
+            
+        </ul>
+        <input type="submit" value="Subir Archivo" />
+    </div>
+
+</div>
+}

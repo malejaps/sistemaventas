@@ -1,0 +1,96 @@
+﻿@model IList<SistemaVentasWeb.Models.ReporteCategoria>
+
+@{
+    ViewBag.Title = "Ventas por categoria de productos";
+}
+
+<h2>Ventas por categoria de productos @ViewBag.desde @ViewBag.fechainicio @ViewBag.hasta @ViewBag.fechafin</h2>
+<br /><br /><br />
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+@using (Html.BeginForm())
+{
+
+    <table style="margin: 0 auto;">
+        <tr>
+            <td>Desde </td>
+            <td><input type="date" id="fecha_inicio" name="fecha_inicio"></td>
+
+
+        </tr>
+        <tr>
+            <td>Hasta</td>
+            <td><input type="date" id="fecha_fin" name="fecha_fin"></td>
+        </tr>
+
+    </table>
+    <p></p>
+    <p></p>
+    <br />
+    <input type="submit" style="Position:relative; left:45%; top:50%"  value="Ver ventas" class="btn btn-default" />
+
+
+}
+
+
+        <p></p>
+        <p></p>
+<br/>
+
+
+        <table class="table">
+            <tr>
+                <th>
+                    Codigo
+                </th>
+                <th>
+                    Categoria de producto
+                </th>
+                <th>
+                    Cantidad
+                </th>
+            </tr>
+
+
+            @for (var i = 0; i < Model.Count; i++)
+    {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => modelItem[i].Codigo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => modelItem[i].Categoria)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => modelItem[i].Cantidad)
+                    </td>
+
+                </tr>
+    }
+        </table>
+
+       <p></p>
+        <p></p>
+        <table>
+
+            <tr>
+                
+                <td>
+                    <div><a href="@Url.Action("ReporteCategoria", new { id = "PDF", fechai = @ViewBag.fechainicio, fechaf = @ViewBag.fechafin })"><img src="~/ImagenesInterfaz/pdf.png" title="Exportar en pdf" /></a></div>
+                </td>
+                <td>
+                    <div><a href="@Url.Action("ReporteCategoria", new { id = "Excel", fechai = @ViewBag.fechainicio, fechaf = @ViewBag.fechafin })"><img src="~/ImagenesInterfaz/excel.png" title="Exportar en excel" /></a></div>
+                </td>
+            </tr>
+            <tr>
+                Cuando descargue el PDF debe dar clic derecho en "Guardar Como", escribir el nombre del archivo y la extension .pdf.
+            </tr>
+        </table>
+
+        <p></p>
+        <div>
+            @Html.ActionLink("Regresar", "Index", "Reporte")
+        </div>
+
+
+
+

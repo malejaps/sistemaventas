@@ -1,0 +1,26 @@
+*****************USUARIOS**************************
+
+perfil: JEFE DE PRODUCCION
+
+nombre_usuario: sandraR 
+Contraseña: sandraR5378548
+________________________________________________________________________________________
+
+perfil: VENDEDOR
+
+Nombre_usuario: pedroP 
+Contraseña: pedroP5378548
+________________________________________________________________________________________
+
+perfil: AREA DE VENTAS
+
+Nombre_usuario: mariaZ 
+Contraseña: mariaZ5378548
+
+________________________________________________________________________________________
+Perfil: ADMINISTRADOR
+
+Nombre_usuario: jaimeB 
+Contraseña: jaimeB5378548
+
+

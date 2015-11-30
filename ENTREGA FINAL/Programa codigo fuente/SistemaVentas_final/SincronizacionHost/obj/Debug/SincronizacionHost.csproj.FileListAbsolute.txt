@@ -1,0 +1,144 @@
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\ServicioSincronizacion\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Mi parte\Implementacion\ServicioSincronizacion\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.exe.config
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.exe
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SincronizacionHost.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\ServicioSincronizacion.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\ServicioSincronizacion.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.exe
+C:\Users\Maleja\Desktop\SistemaVentas_final\SincronizacionHost\obj\Debug\SincronizacionHost.pdb

@@ -1,0 +1,78 @@
+﻿@model IEnumerable<SistemaVentasEntidades.ProductoEntidad>
+
+@{
+    ViewBag.Title = "Editar precios";
+}
+
+<h2>Inventario de productos</h2>
+
+<p>
+    
+    @Html.ActionLink("Editar precios de productos desde un archivo", "EditarPrecioProductoArchivo")
+</p>
+
+
+@*@Html.ValidationSummary(true, "", new { @class = "text-danger" })*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CodProducto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NombreProducto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Precio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DescripcionProducto)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.RutaFoto)
+        </th>*@
+        @*<th >
+            @Html.DisplayNameFor(model => model.CodUsuario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodCatProducto)
+        </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodProducto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NombreProducto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cantidad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Precio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DescripcionProducto)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.RutaFoto)
+        </td>*@
+        @*<td>
+            @Html.DisplayFor(modelItem => item.CodUsuario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodCatProducto)
+        </td>*@
+        <td>
+            @Html.ActionLink("Editar precio", "EditarPrecioProducto", new { codigoProducto = item.CodProducto }) 
+            @*@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,4 @@
+shampoo,43,2500,aqui esta un sampoo,xxxx,2,1
+vaso,43,2500,aqui esta un vaso,xxxx,1,1
+chicle,53,8500,clicles de menta,xxxx,1,1
+alicate,63,7800,aqui esta un alicate,xxxx,5,1

@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "Cargar productos desde un archivo";
+}
+
+<h2>Cargar productos desde un archivo</h2>
+@using (Html.BeginForm("CrearProductosArchivo", "Producto", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <script type="text/javascript">
+
+        function selectedFile() {
+            var archivoSeleccionado = document.getElementById("rutaArchivo");
+            var file = archivoSeleccionado.files[0];
+            if (file) {
+                var fileSize = 0;
+                if (file.size > 1048576)
+                    fileSize = (Math.round(file.size * 100 / 1048576) / 100).toString() + ' MB';
+                else
+                    fileSize = (Math.round(file.size * 100 / 1024) / 100).toString() + ' Kb';
+
+                var divfileSize = document.getElementById('fileSize');
+                var divfileType = document.getElementById('fileType');
+                divfileSize.innerHTML = 'Tamaño: ' + fileSize;
+                divfileType.innerHTML = 'Tipo: ' + file.type;
+
+            }
+        }
+
+    </script>
+
+
+    @Html.AntiForgeryToken()
+<div class="form-group">
+    <label class="control-label col-md-2">Cargar Archivo</label>
+    <div class="col-md-10">
+        <ul class="form-group">
+            <li>
+                <input type="file" id="rutaArchivo" name="rutaArchivo" onchange="selectedFile();" />
+            </li>
+            <li>
+                <div id="fileSize"></div>
+            </li>
+            <li>
+                <div id="fileType"></div>
+            </li>
+            <li>
+                <input type="submit" value="Subir Archivo" class="btn btn-default" />
+            </li>
+        </ul>
+    </div>
+
+</div>
+}
+
+<div>
+    @Html.ActionLink("Regresar", "Index")
+</div>

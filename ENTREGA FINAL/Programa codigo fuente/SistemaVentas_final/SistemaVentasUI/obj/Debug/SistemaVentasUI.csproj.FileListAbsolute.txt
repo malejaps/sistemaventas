@@ -1,0 +1,405 @@
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.baml
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.g.cs
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\App.g.cs
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.lref
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\MainWindow.baml
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoProductos.baml
+c:\users\roand_000\documents\visual studio 2013\Projects\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoProductos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\Views\DetallePedidoEmergente.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoPedidos.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoProductos.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\Views\DetallePedidoEmergente.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoPedidos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoProductos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\App.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.lref
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\MainWindow.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\roger\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\Views\DetallePedidoEmergente.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoPedidos.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoProductos.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\Views\DetallePedidoEmergente.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoPedidos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoProductos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\App.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.lref
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\MainWindow.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\Views\DetallePedidoEmergente.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoPedidos.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoProductos.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\Views\DetallePedidoEmergente.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoPedidos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\Views\ListadoProductos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\App.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.lref
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\MainWindow.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\maleja interfaz miercoles\SistemaVentas\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\INTERFAZ\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\Views\DetallePedidoEmergente.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\Views\ListadoPedidos.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\Views\ListadoProductos.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\Views\BusquedaNegocio.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\Views\DetallePedidoEmergente.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\Views\ListadoPedidos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\Views\ListadoProductos.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\App.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.lref
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\App.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\MainWindow.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final2\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\App.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Desconectado\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Google Drive\Univalle\Feb-Jun 2015\.Net\Proyecto .Net\ENTREGA 1\Implementacion\FINAL ENTREGA 1\Final\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Maleja\Desktop\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\App.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Segunda entrega\Implementacion unida\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.dll
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\bin\Debug\EntityFramework.xml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.baml
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\App.g.cs
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\Con mvc\SistemaVentas_final3\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\Con mvc\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\Con mvc\SistemaVentas_final3\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+H:\UNIVERSIDAD\Semestre 4\ACTUALIZACION EN COMPETENCIAS LABORALES\Proyecto final\Entrega final\Entrega Maleja\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Maleja\Desktop\Conectado y desconectado\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Maleja\Desktop\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Edwin Gamboa\Documents\Visual Studio 2013\Projects\Conectado y desconectado con loguin\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe.config
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.exe
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasUI.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.dll
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasBL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasEntidades.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\SistemaVentasDAL.pdb
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\bin\Debug\EntityFramework.xml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.baml
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\MainWindow.g.cs
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\App.g.cs
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI_MarkupCompile.cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.g.resources
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.Properties.Resources.resources
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.csproj.GenerateResource.Cache
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.exe
+C:\Users\Maleja\Desktop\SistemaVentas_final\SistemaVentasUI\obj\Debug\SistemaVentasUI.pdb
